@@ -2,7 +2,7 @@
 
 Given a set of images concerning blade tools and taken by the backlighting technique (as shown in Figure 1 below), students should develop a software system aimed at inspecting the angles associated with the teeth of the blade.
 
-![Image Alt text](ProjectImages/saw_01.png "Figure 1")
+![Image Alt text](ProjectImages/saw_01.png "Figure 1"))
 
 
 In order to carry out measurement and inspection of the angles associated with the teeth of the blade, the following processing steps might be deployed:
