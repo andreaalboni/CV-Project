@@ -16,11 +16,15 @@ In order to carry out measurement and inspection of the angles associated with t
 
 **Figure 2**: Extracted contours
 
-<img src="ProjectImages/saw_01_contours.png" alt="Extracted contours" width="75%">
+<p align="center">
+  <img src="ProjectImages/saw_01_contours.png" alt="Extracted contours" width="75%">
+</p>
 
 **Figure 3**: A sample output of the contour segmentation step is depicted in Figure 3.
 
-<img src="ProjectImages/saw_01_straight_lines.png" alt="Contours' straight lines" width="75%">
+<p align="center">
+  <img src="ProjectImages/saw_01_straight_lines.png" alt="Contours' straight lines" width="75%">
+</p>
 
 **Figura 4**: Examples of angles to be measured and verified.
 
