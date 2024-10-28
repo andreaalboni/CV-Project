@@ -20,8 +20,7 @@ In order to carry out measurement and inspection of the angles associated with t
   <img src="ProjectImages/saw_01_contours.png" alt="Extracted contours" width="75%">
 </p>
 
-**Figure 3**: A sample output of the contour segmentation step is depicted in Figure 3.
-
+**Figure 3**: Line segments forming the angles to be inspected may be obtained by filtering out circular arcs together with too long/too small lines. 
 <p align="center">
   <img src="ProjectImages/saw_01_straight_lines.png" alt="Contours' straight lines" width="75%">
 </p>
