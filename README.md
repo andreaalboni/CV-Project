@@ -19,6 +19,11 @@ In order to carry out measurement and inspection of the angles associated with t
 
 **Figura 3**: (a) Segmentation of contours into lines and circular arcs, (b) line segments forming the angles to be inspected may be obtained by filtering out circular arcs together with too long/too small lines. 
 
+<p align="center">
+  <img src="ProjectImages/saw_01_circular_arcs.png" alt="Training Set Image" width="45%" style="padding-right: 10px;">
+  <img src="ProjectImages/saw_01_circular_arcs.png" alt="U-Net Prediction" width="45%">
+</p>
+
 **Figura 4**: Examples of angles to be measured and verified. 
 
 Finally, as an optional requirement, students may also verify that the triangular shape of teeth is not significantly corrupted by burrs or other possible imperfections. Purposely, the two edges associated with the angle of a tooth should be as rectilinear as not to deviate by more than 5 pixels from the ideal straight profile.
