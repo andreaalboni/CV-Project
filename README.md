@@ -13,17 +13,13 @@ In order to carry out measurement and inspection of the angles associated with t
 5. Measurement of the angle associated with each teeth in order to assess whether such angle falls or not within a given allowance range, R, selectable by the user as a parameter of the system (e.g. R=[37°: 42.5°]). Examples of angles to be measured and verified are shown in Figure 4.
 6. Results of the teeth inspection process must be properly overlaid onto the input grayscale images so to highlight which angles fall within the chosen allowance range and which ones turn out instead out-of-range (i.e. teeth are defective).
 
-**Figure 2**: (a) extracted contours,
-
-(b) a zoomed view on a tooth of the blade
-
-Segmentation of contours into circular arcs and straight lines.
+**Figure 2**: Extracted contours
 ![Image Alt text](ProjectImages/saw_01_contours.png "Figure 2")
 
-The angles to be inspected are formed by filtering out circular arcs, shown below.
-![Image Alt text](ProjectImages/saw_01_circular_arcs.png "Figure 3")
+**Figure 3**: A sample output of the contour segmentation step is depicted in Figure 3.
 
-**Figura 4**: Examples of angles to be measured and verified. 
+**Figura 4**: Examples of angles to be measured and verified.
+
 
 Finally, as an optional requirement, students may also verify that the triangular shape of teeth is not significantly corrupted by burrs or other possible imperfections. Purposely, the two edges associated with the angle of a tooth should be as rectilinear as not to deviate by more than 5 pixels from the ideal straight profile.
 
