@@ -31,7 +31,7 @@ In order to carry out measurement and inspection of the angles associated with t
 
 **Figura 5**: Examples of angles to be measured and verified.
 <p align="center">
-  <img src="ProjectImages/saw_01.png" alt="Contours' straight lines" width="75%">
+  <img src="ProjectImages/inspection_blade_tool_circle.png" alt="Contours' straight lines" width="75%">
 </p>
 
 Finally, as an optional requirement, students may also verify that the triangular shape of teeth is not significantly corrupted by burrs or other possible imperfections. Purposely, the two edges associated with the angle of a tooth should be as rectilinear as not to deviate by more than 5 pixels from the ideal straight profile.
