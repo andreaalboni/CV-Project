@@ -17,12 +17,11 @@ In order to carry out measurement and inspection of the angles associated with t
 
 (b) a zoomed view on a tooth of the blade
 
-**Figura 3**: (a) Segmentation of contours into lines and circular arcs, (b) line segments forming the angles to be inspected may be obtained by filtering out circular arcs together with too long/too small lines. 
+Segmentation of contours into circular arcs and straight lines.
+![Image Alt text](ProjectImages/saw_01_countors.png "Figure 1")
 
-<p align="center">
-  <img src="ProjectImages/saw_01_circular_arcs.png" alt="Training Set Image" width="45%" style="padding-right: 10px;">
-  <img src="ProjectImages/saw_01_circular_arcs.png" alt="U-Net Prediction" width="45%">
-</p>
+The angles to be inspected are formed by filtering out circular arcs, shown below.
+![Image Alt text](ProjectImages/saw_01_circular_arcs.png "Figure 1")
 
 **Figura 4**: Examples of angles to be measured and verified. 
 
