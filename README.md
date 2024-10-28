@@ -27,7 +27,7 @@ In order to carry out measurement and inspection of the angles associated with t
 
 **Figura 4**: Examples of angles to be measured and verified.
 <p align="center">
-  <img src="ProjectImages/Trianglefit.png" alt="Output" width="75%">
+  <img src="ProjectImages/TriangleFit.png" alt="Output" width="75%">
 </p>
 
 **Figura 5**: Blade tool inspection.
