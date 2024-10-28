@@ -14,7 +14,7 @@ In order to carry out measurement and inspection of the angles associated with t
 6. Results of the teeth inspection process must be properly overlaid onto the input grayscale images so to highlight which angles fall within the chosen allowance range and which ones turn out instead out-of-range (i.e. teeth are defective).
 
 **Figure 2**: Extracted contours
-![Image Alt text](ProjectImages/saw_01_contours.png "Figure 2")
+<img src="ProjectImages/saw_01_contours.png" alt="Extracted contours" width="45%">
 
 **Figure 3**: A sample output of the contour segmentation step is depicted in Figure 3.
 ![Image Alt text](ProjectImages/saw_01_straight_lines.png "Figure 2")
