@@ -2,7 +2,7 @@
 
 Given a set of images concerning blade tools and taken by the backlighting technique (as shown in Figure 1 below), students should develop a software system aimed at inspecting the angles associated with the teeth of the blade.
 
-![Image Alt text](ProjectImages/saw_01.png "Figure 1")
+<img src="ProjectImages/saw_01.png" alt="Sample saw image" width="75%">
 
 
 In order to carry out measurement and inspection of the angles associated with the teeth of the blade, the following processing steps might be deployed:
@@ -14,10 +14,12 @@ In order to carry out measurement and inspection of the angles associated with t
 6. Results of the teeth inspection process must be properly overlaid onto the input grayscale images so to highlight which angles fall within the chosen allowance range and which ones turn out instead out-of-range (i.e. teeth are defective).
 
 **Figure 2**: Extracted contours
-<img src="ProjectImages/saw_01_contours.png" alt="Extracted contours" width="45%">
+
+<img src="ProjectImages/saw_01_contours.png" alt="Extracted contours" width="75%">
 
 **Figure 3**: A sample output of the contour segmentation step is depicted in Figure 3.
-![Image Alt text](ProjectImages/saw_01_straight_lines.png "Figure 2")
+
+<img src="ProjectImages/saw_01_straight_lines.png" alt="Contours' straight lines" width="75%">
 
 **Figura 4**: Examples of angles to be measured and verified.
 
