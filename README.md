@@ -12,7 +12,7 @@ In order to carry out measurement and inspection of the angles associated with t
 3. Segmentation of contours into line segments and circular arcs. To this purpose, the Ramer-Douglas-Peucker algorithm may be deployed (see e.g. references [1], [2]), with references [3],[4] providing interesting additional material concerning polygonal approximation of contours.
 4. Detection of the geometric primitives relevant to the inspection task based on keeping the line segments within a certain size range and discarding circular arcs (see Figure 3).
 5. Measurement of the angle associated with each teeth in order to assess whether such angle falls or not within a given allowance range, R, selectable by the user as a parameter of the system (e.g. R=[37°: 42.5°]). Examples of angles to be measured and verified are shown in Figure 4.
-6. Results of the teeth inspection process must be properly overlaid onto the input grayscale images so to highlight which angles fall within the chosen allowance range and which ones turn out instead out-of-range (i.e. teeth are defective).
+6. Results of the teeth inspection process must be properly overlaid onto the input grayscale images so to highlight which angles fall within the chosen allowance range and which ones turn out instead out-of-range (i.e. teeth are defective). In Figure 5 is shown the algorithm's output given saw_01 image. 
 
 **Figure 2**: Extracted contours
 
@@ -27,6 +27,12 @@ In order to carry out measurement and inspection of the angles associated with t
 
 **Figura 4**: Examples of angles to be measured and verified.
 
+
+
+**Figura 5**: Examples of angles to be measured and verified.
+<p align="center">
+  <img src="ProjectImages/saw_01.png" alt="Contours' straight lines" width="75%">
+</p>
 
 Finally, as an optional requirement, students may also verify that the triangular shape of teeth is not significantly corrupted by burrs or other possible imperfections. Purposely, the two edges associated with the angle of a tooth should be as rectilinear as not to deviate by more than 5 pixels from the ideal straight profile.
 
