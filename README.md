@@ -43,3 +43,7 @@ Additionally, it has been also verified that the triangular shape of the teeth i
 [2] Steger,Ulrich,Wiedemann *“Machine Vision Algorithms and Applications”* , WILEY-VCH  
 [3] P.L.Rosin. “Techniques for assessing polygonal approximations of curves”. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 19(6): 659-666, June 1997  
 [4] P.L.Rosin. “Assessing the behaviour of polygonal approximations algorithms”. *Pattern Recognition*, 36(2): 508-518, 2003
+
+## Autore
+
+  - **Andrea Alboni** 
