@@ -2,8 +2,9 @@
 
 Given a set of images concerning blade tools and taken by the backlighting technique (as shown in Figure 1 below), students should develop a software system aimed at inspecting the angles associated with the teeth of the blade.
 
-<img src="ProjectImages/saw_01.png" alt="Sample saw image" width="75%">
-
+<p align="center">
+  <img src="ProjectImages/saw_01.png" alt="Sample saw image" width="75%">
+</p>
 
 In order to carry out measurement and inspection of the angles associated with the teeth of the blade, the following processing steps might be deployed:
 1. Contour extraction (see Figure 2).
